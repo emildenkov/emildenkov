@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Emil 👋
 
 ## About Me 
 - 🌱 I’m currently studying for Python Web Developer at SoftUni
