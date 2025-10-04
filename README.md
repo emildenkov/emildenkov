@@ -32,14 +32,6 @@ When I’m not studying or coding, you’ll probably find me reading about tradi
 
 ---
 
-## 📫 Connect with Me
-
-- 🌐 [GitHub Profile](#)  
-- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/emil-denkov-295a2332b/)*  
-- 🪙 Always open to talk about data, trading, or cool tech ideas!
-
----
-
 > “Data tells stories — you just need to learn how to listen.” 📈
 
 
